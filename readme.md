@@ -3,6 +3,7 @@ Conceitos envolvidos:
 - Graph
 - Djikstra algorithm
 - Matrix
+- Python
 <br><br>
 
 # FUNCIONAMENTO
