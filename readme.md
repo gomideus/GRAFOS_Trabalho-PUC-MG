@@ -10,7 +10,7 @@ Conceitos envolvidos:
 - Criar programa com interface gráfica para representar aeroportos no mapa mundi e representar também graficamente soluções para alguns problemas relacionados à algoritmos em grafos.<br>
 - Siglas dos aeroportos a serem representados serão lidas de um arquivo TXT cujo nome deve ser airports.txt ( exemplo de formato contido neste repositório ).<br>
 - Rotas existentes entre aeroportos e seus respetivos preços devem estar no arquivo cujo nome deve ser rotas.txt ( exemplo de formato contido neste repositório ).<br>
-- IMPORTANTE: Sempre que usamos uma funcionalidade do menu externo devemos fechar o mapa. Ele reabrirá automaticamente atualizado.<br>
+- IMPORTANTE: Sempre que usamos uma funcionalidade do menu externo devemos fechar o mapa. Ele reabrirá automaticamente e será atualizado. Essa é uma limitação das bibliotecas que foram utilizadas.<br>
 <br><br>
 
 # FUNÇÕES
