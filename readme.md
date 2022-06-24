@@ -16,8 +16,8 @@ Conceitos envolvidos:
 # FUNÇÕES
 A) Menor caminho entre dois aeroportos dados como input ( Sigla, que deve ser idêntica a alguma contida em rotas.txt ). <br>
 B) Menor tarifa entre dois aeroportos dados como input ( O resultado não obrigatoriamente deve ser idêntico ao da primeira função ).<br>
-C) Menor caminho para se passar por todos os aeroportos listados em airports.txt.<br>
-D) NÃO IMPLEMENTADO<br>
+C) [NÃO FINALIZADO] Menor caminho para se passar por todos os aeroportos listados em airports.txt.<br>
+D) [NÃO IMPLEMENTADO]<br>
 E) Fechar programa<br>
 <br><br>
 
